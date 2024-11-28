@@ -1,0 +1,128 @@
+.box{
+width: 85%;
+height: 700px;
+border: 1.5px solid rgb(18, 19, 19);
+margin-left: 7%;
+border-radius: 70px;
+margin-top: 40px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+background-color: rgb(220, 246, 242)
+
+}
+body{
+    background-color: ;
+}
+h1{
+    margin-left: 40%;
+color: aliceblue;
+}
+body{
+    background-color: rgb(19,156,175);
+}
+.cards{
+    width: 250px;
+    height: 450px;
+    background-color: azure;
+    border-radius: 15px;
+    padding-bottom: 30px;
+    filter: drop-shadow(5px 5px 5px #949494);
+}
+.cards img{
+    width: 100%;
+    height: 220px;
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+}
+.a{
+    border: 1px solid black ;
+    width: 30%;
+    margin-left: 20%;
+    border-radius: 8px;
+    font-size: 20px;
+    background-color: rgb(225, 138, 138);
+    padding-left: 20px;
+
+}
+.had1{
+    margin-left: 20px;
+}
+.pera1{
+    margin-left: 20px;
+    margin-top: -10px;
+}
+.first img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.first{
+    margin-left: 20px;
+    display: flex;
+    
+    
+}
+.id1{
+    margin-top: 1px;
+    margin-left:10px ;
+}
+.b{
+  border: 1px solid black;  
+  margin-left: 20%;
+  border-radius: 8px;
+  background-color: rgb(225, 138, 138);
+  width: 40%;
+  font-size: 20px;
+  padding-left: 20px;
+}
+.had2{
+    margin-left: 20px;
+}
+.pera2{
+    margin-left: 20px;
+    margin-top: -10px;
+
+}
+.second img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.second{
+    margin-left: 20px;
+    display: flex;
+}
+.id2{
+    margin-top: 1px;
+    margin-left: 10px;
+}
+.c{
+    border: 1px solid black;
+    border-radius: 8px;
+    margin-left: 20%;
+    width: 40%;
+    background-color: rgb(225, 138, 138);
+    padding-left: 20px;
+    font-size: 20px;
+}
+.had3{
+    margin-left: 20px;
+}
+.pera3{
+    margin-left: 20px;
+    margin-top: -10px;
+}
+.third img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.third{
+    margin-left: 20px;
+    display: flex;
+}
+.id3{
+    margin-left: 10px;
+    margin-top: 1px;
+}
